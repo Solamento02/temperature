@@ -1,9 +1,13 @@
 # Temperature Converter
+App made with <a href="https://nodejs.org/en/download">nodejs</a> and with the npm package <a href="https://github.com/SBoudrias/Inquirer.js">Inquirer</a>  to deal with user input
+
+Commands bellow
 * Fahrenheit to Celsius
 * Celsius to Fahreint
 * Exit
 
-Pretty simple, made with <a href="https://github.com/SBoudrias/Inquirer.js">Inquirer</a> 
+Pretty simple app, ikr
+
 # How to Install
 Download the repo or
 ```
@@ -15,4 +19,4 @@ npm install
 ```
 thats it! have fun
 # Update
-- [ ] Kelvin
+- [ ] Kelvin temperature
